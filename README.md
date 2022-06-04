@@ -8,4 +8,4 @@ Let's go? 🤝
 - 🌱 I’m currently learning iOS topics, Swift language and Software Engineer.
 - 💬 Ask me about something you want to learn and let's try get in touch. 😄
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/juan-munhoes-junior-04345058/)
-- 📣 My personal blog (SOON) [Blog] (https://munhoesjr.com)
+- 📣 My personal blog (SOON) [Blog](https://munhoesjr.com)
