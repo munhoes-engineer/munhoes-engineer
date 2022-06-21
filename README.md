@@ -1,4 +1,4 @@
-![Welcome](https://user-images.githubusercontent.com/91331934/172024199-1b642027-d6b0-439d-9814-6a6bb1bc6282.jpg)
+![Screen Shot 2022-06-20 at 21 02 08](https://user-images.githubusercontent.com/91331934/174690745-5c364e5e-85ef-49b7-92b1-1df186b0c28c.png)
 
 ### Hey, What's up? 🤟 
 I'm Juan, iOS Developer from Brazil. 
